@@ -1,4 +1,4 @@
-# TokoAnekaSosis
+# TokoBaju
 1. ijinkan akses untuk membuka toko<p>
    <img src="https://github.com/hamimmasudin/BajuToko/blob/master/allow%20toko.PNG">
    
